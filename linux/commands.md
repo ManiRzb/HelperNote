@@ -1,4 +1,4 @@
-```markdown
+
 # Rsync
 
 `rsync` is a powerful utility for efficiently transferring and synchronizing files across local drives, networks, and remote servers. It offers a wide range of options for various use cases.
