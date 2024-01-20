@@ -1,6 +1,3 @@
-Sure, I'll provide a Markdown document format for setting up network namespaces in Linux, focusing on the practical steps involved. This guide will cover the basic setup and demonstrate how to create and use network namespaces.
-
-```markdown
 # Network Namespaces in Linux: A Practical Guide
 
 ## Introduction
