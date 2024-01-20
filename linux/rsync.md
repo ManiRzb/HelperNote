@@ -119,7 +119,5 @@ rsync -avz --bwlimit=1000 /source/dir /destination/dir
 ```
 Limits the bandwidth used by rsync to 1000 KBytes per second.
 
-**Note**: Always replace paths and user/host details with your actual file paths and server information.
-```
 
-This document now includes both a comprehensive list of `rsync` options and a variety of example commands, making it an effective reference for understanding and using `rsync` in various scenarios.
+
